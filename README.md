@@ -1,3 +1,4 @@
+|[logo](https://github.com/vaibhav25garg/vaibhav25garg/blob/main/COMPUTER%20SCIENCE%20ENGINEER.png)
 <h1 align="center">Hi 👋, I'm Vaibhav Garg</h1>
 <h3 align="center">A passionate AI developer from India</h3>
 
